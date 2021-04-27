@@ -1,4 +1,4 @@
-# namelist-creater
+# namelist-creator
 Create e-mail and user name lists from firstname/lastname input. Can output raw lists or GoPhish CSV Output. Supports cli-supplied customized naming schemas. Attempts to handle non-ascii characters and double names with hyphen (e.g. John-John Smith-Roberts).
 ### Goals of this project
 * Simplify tasks for Red Teamers after the reconnaissance phase
