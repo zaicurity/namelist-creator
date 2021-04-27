@@ -7,7 +7,7 @@ Create e-mail and user name lists from firstname/lastname input. Can output raw 
 * Provide customizable schema handling
 * Dust off my python skills :)
 
-## Prerequisits
+## Prerequisites
   ```sudo pip3 install unidecode```
 
 ## Usage
