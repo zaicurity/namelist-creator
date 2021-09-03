@@ -86,9 +86,9 @@ EXAMPLE\joesmue
 Schema examples (based on John Smith):
 ```
 -s f1l2 -> jsm
--s f1.l -> jsmith
--s f1_l -> jsmith
--s f1.l --keepcase -> JSmith
--s l1.f -> sjohn
+-s f1.l -> j.smith
+-s f1_l -> j_smith
+-s f1.l --keepcase -> J.Smith
+-s l1.f -> s.john
 -s l-f -> smith-john
 ```
